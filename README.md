@@ -10,14 +10,15 @@
 </p>
 
 ### 🎓 About Me
-- ❤️ **Interests:** Passionate about **Competitive Programming** and **Machine Learning**.
-- 🌱 **Learning:** Currently working with **Python** for ML applications and refining algorithms in **C++**.
-- 🏆 **Handle:** Known as **brainsoft** across major coding platforms.
-- ♟️ **Fun Fact:** I analyze metaphorical song lyrics and love playing chess.
+- ❤️ **Interests:** Deeply focused on **Competitive Programming** and **Machine Learning**.
+- 🌱 **Learning:** Currently optimizing ML models with **Python** and advanced algorithms in **C++**.
+- 🏆 **Handle:** **brainsoft** (Active on all major OJ platforms).
+- ♟️ **Fun Fact:** I analyze metaphorical song lyrics and I'm a chess enthusiast.
 
 ---
 
 ### 🏆 Competitive Programming Highlights
+
 <table align="center">
     <tr>
         <th>Platform</th>
@@ -27,7 +28,7 @@
     </tr>
     <tr>
         <td><b>Codeforces</b></td>
-        <td>1311 (Pupil) / 2056+ Solved</td>
+        <td>1376 (Pupil) / <b>2100+ Solved</b></td>
         <td><b>CodeChef</b></td>
         <td>1745</td>
     </tr>
@@ -46,42 +47,23 @@
 </table>
 
 #### 🥇 Major Contest Achievements
-- 🚩 **Regionalist:** ICPC Asia Dhaka Regional (2023, 2024).
-- 🚩 **Finalist:** NCPC 2023.
+- 🚩 **3x ICPC Regionalist:** 2023, 2024, and **2025**.
+- 🚩 **NCPC Finalist:** 2023.
 - 🥇 **1st Place:** Welcome to PSTU : Ignite the Future - Junior Programming Battle.
 - 🥈 **2nd Place:** Happy New Year 2022 - PSTU Tech Support.
 - 🥉 **3rd Place:** Intra PSTU Independence Day Programming Contest - 2024.
-- 🏅 **Notable Ranks:** Top 15 in KRIUPC and BUITS IT Fest 1.0.
+- 🏅 **Notable Ranks:** Top positions in KRIUPC and BUITS IT Fest 1.0.
 
 ---
 
 ### 🛠️ Skills & Interests
 - **Languages:** C++, Python, English.
 - **Core Areas:** Deep Learning, NLP, and Symbolic Machine Learning.
-- **Problem Solving:** Data Structures, Algorithms, and Graph Theory.
-
-### 🌱 Currently Working On
-- 📂 **ICPC Training:** Preparing for future regional contests.
-- 📝 **ML Development:** Building models with a focus on symbolic reasoning.
+- **Problem Solving:** Advanced Graph Theory, Dynamic Programming, and Math.
 
 ---
 
 ### 📊 GitHub Stats
-<table align="center">
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadalmuzahid&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&text_color=333333&title_color=1E90FF&icon_color=FF8C00" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalmuzahid&langs_count=8&count_private=true&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&text_color=333333&title_color=1E90FF&icon_color=FF8C00" />
-            </a>
-        </td>
-    </tr>
-</table>
-
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
